@@ -1,0 +1,19 @@
+{
+  "name": "the-bug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "three": "^0.143.0",
+    "yarn-bound": "^0.2.16"
+  }
+}
